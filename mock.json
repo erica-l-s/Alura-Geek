@@ -1,0 +1,28 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Alura Tracker 3.0",
+        "preco":"10",
+        "imagem":"https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714694400&semt=sph"
+      },
+      {
+        "id": 2,
+        "nome": "ByteBank 2.0",
+        "preco":"20",
+        "imagem":"https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714694400&semt=sph"
+      },
+      {
+        "id": 3,
+        "nome": "ByteBank 2.0",
+        "preco":"80",
+        "imagem":"https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714694400&semt=sph"
+      },
+      {
+        "id": 4,
+        "nome": "ByteBank 2.0",
+        "preco":"50",
+        "imagem":"https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714694400&semt=sph"
+      }
+    ]
+}
