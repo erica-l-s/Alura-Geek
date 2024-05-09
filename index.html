@@ -25,18 +25,18 @@
            </div>
             </div>
            
-            <div class="adicionar">
+            <form class="adicionar" data-formulario>
                 <span>Adicionar Produto:</span>
-                <input type="text" placeholder="nome...">
-                <input type="number" placeholder="valor...">
-                <input type="text" placeholder="imagem...">
+                <input type="text" placeholder="nome..." id="nome" data-nome>
+                <input type="number" placeholder="valor..." id="preco" data-preco>
+                <input type="text" placeholder="imagem..." id="imagem" data-imagem>
                 <div>
-                    <button class="btn-guardar">Guardar</button>
-                    <button class="btn-limpar">Limpar</button>
+                    <button  class="btn-guardar" type="submit">Guardar</button>
+                    <button class="btn-limpar" type="reset">Limpar</button>
                     
                 </div>
                 
-            </div>
+            </form>
 
         </div>
     </main>
@@ -56,4 +56,5 @@
     </footer>
 </body>
 <script src="produtos.js" type="module"></script>
+<script src="postProduto.js" type="module"></script>
 </html>
