@@ -7,58 +7,28 @@
       "imagem": "https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714694400&semt=sph"
     },
     {
-      "id": "2",
-      "nome": "ByteBank 2.0",
-      "preco": "20",
-      "imagem": "https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714694400&semt=sph"
-    },
-    {
-      "id": "3",
-      "nome": "ByteBank 2.0",
-      "preco": "80",
-      "imagem": "https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714694400&semt=sph"
-    },
-    {
-      "id": "4",
-      "nome": "ByteBank 2.0",
-      "preco": "50",
-      "imagem": "https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714694400&semt=sph"
-    },
-    {
-      "id": "227a",
-      "imagem": "",
-      "nome": "",
-      "preco": ""
-    },
-    {
-      "id": "e8ec",
-      "imagem": "",
-      "nome": "",
-      "preco": ""
-    },
-    {
-      "id": "13c2",
-      "imagem": "",
-      "nome": "",
-      "preco": ""
-    },
-    {
-      "id": "ac7e",
-      "imagem": "",
-      "nome": "",
-      "preco": ""
-    },
-    {
-      "id": "db51",
-      "imagem": "",
-      "nome": "",
-      "preco": ""
-    },
-    {
-      "id": "e120",
-      "imagem": "https://images.app.goo.gl/8mjdczv4wpHwck2o6",
+      "id": "244c",
+      "imagem": "https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714694400&semt=sph",
       "nome": "teste",
       "preco": "10"
+    },
+    {
+      "id": "fed0",
+      "imagem": "https://images.app.goo.gl/8mjdczv4wpHwck2o6",
+      "nome": "teste",
+      "preco": "80"
+    },
+    {
+      "id": "4d99",
+      "imagem": "https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714694400&semt=sph",
+      "nome": "teste",
+      "preco": "50"
+    },
+    {
+      "id": "bc49",
+      "imagem": "https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1714694400&semt=sph",
+      "nome": "teste",
+      "preco": "80"
     }
   ]
 }

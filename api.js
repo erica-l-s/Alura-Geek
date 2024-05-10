@@ -32,11 +32,31 @@ async function postProduct(imagem, nome, preco) {
     } catch (error) {
         console.error("Erro ao cadastrar produto", error)
     }
+   
+}
+
+async function deleteProduct(id) {
+    try {
+        const response = await fetch(`http://localhost:3000/produtos/${id}`,{
+            method: "DELETE",
+            headers:{
+                "Content-type": "application/json"
+            }
+          
+        })
+        const produtos = await response.json()
+        console.log(produtos)
+    return produtos
+        
+    } catch (error) {
+        console.error("Erro ao deletar produto", error)
+    }
   
     
 }
 
 export const api = {
     getProduct,
-    postProduct
+    postProduct,
+    deleteProduct
 }
